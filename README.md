@@ -5,7 +5,8 @@ Join or create chat rooms.
 Collaborative project exploring web socket with Sebastian Royer (@walkingalchemy). This repo contains the back end of the app only. Be sure to visit this repo for the front end: https://github.com/KellyStamps/Mod4Project-Frontend.
 
 # Demo
-You can find a working demo here: https://youtu.be/6lECuoTIYco
+<a href="https://www.youtube.com/watch?v=6lECuoTIYco" target="_blank"><img src="http://img.youtube.com/vi/6lECuoTIYco/0.jpg" 
+alt="Janx Thumbnail" width="240" height="180" border="10" /></a>
 
 # Features
 Chat with other users in real time.
